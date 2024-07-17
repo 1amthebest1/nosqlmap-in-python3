@@ -103,7 +103,3 @@ docker-compose build && docker-compose up
 ```
 
 Once that is complete, you should be able to access the vulnerable application by visiting: https://127.0.0.1/index.html
-# Hello
-# Hello
-# nosqlmap-python3-
-# nosqlmap-python3-
